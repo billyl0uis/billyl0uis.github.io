@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "date": "2025-02-14",
+    "type": "process",
+    "title": "The value of a rough first draft",
+    "body": "Today I gave myself permission to make the ugly version first. The layout got clearer once I stopped trying to make every decision permanent.",
+    "tags": ["iteration", "process"],
+    "color": "coral"
+  },
+  {
+    "id": 2,
+    "date": "2025-02-07",
+    "type": "research",
+    "title": "Looking closely at type",
+    "body": "I compared three typefaces at the same size and noticed how much their x-height changes the feeling of a page. “Readable” is not a single setting.",
+    "tags": ["typography", "research"],
+    "color": "blue"
+  },
+  {
+    "id": 3,
+    "date": "2025-01-31",
+    "type": "reflection",
+    "title": "Designing for a real person",
+    "body": "The most useful constraint today was imagining one person using the thing I was making. It pulled my choices out of the abstract and made them more generous.",
+    "tags": ["audience", "reflection"],
+    "color": "yellow"
+  }
+]
