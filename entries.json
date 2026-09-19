@@ -1,29 +1,38 @@
 [
   {
     "id": 1,
-    "date": "2025-02-14",
-    "type": "process",
-    "title": "The value of a rough first draft",
-    "body": "Today I gave myself permission to make the ugly version first. The layout got clearer once I stopped trying to make every decision permanent.",
-    "tags": ["iteration", "process"],
+    "title": "Built this journal for the homework",
+    "date": "2026-09-19",
+    "type": "reflection",
+    "body": "My steps for updating it.\n\nOpen the site\nClick New entry\nWrite your notes\nClick Download updated journal\nSave the file as the project data file\nPush to GitHub\nProfessor views the published site",
+    "tags": [],
     "color": "coral"
   },
   {
     "id": 2,
-    "date": "2025-02-07",
-    "type": "research",
-    "title": "Looking closely at type",
-    "body": "I compared three typefaces at the same size and noticed how much their x-height changes the feeling of a page. “Readable” is not a single setting.",
-    "tags": ["typography", "research"],
-    "color": "blue"
+    "date": "2026-09-18",
+    "type": "beginning draft",
+    "title": "Gemma outline",
+    "body": "This is an ambitious project moving from random buzzwords to a specific vision. The outline proposes a modular prompting strategy for a glassblowing design and simulation tool. The planned stack includes React, a visual engine such as p5.js or Three.js, Firebase, and GitHub-connected deployment. The roadmap emphasizes architecture first, then small tested prototypes before building the full simulation.",
+    "tags": ["Draft", "Gemma", "modular prompting", "iteration", "process"],
+    "color": "coral"
   },
   {
     "id": 3,
-    "date": "2025-01-31",
-    "type": "reflection",
-    "title": "Designing for a real person",
-    "body": "The most useful constraint today was imagining one person using the thing I was making. It pulled my choices out of the abstract and made them more generous.",
-    "tags": ["audience", "reflection"],
+    "date": "2026-09-19",
+    "type": "iteration",
+    "title": "GPT -5.6 Sol",
+    "body": "The master build prompt describes a glassblowing design and simulation app. It emphasizes a modular workflow, measured inputs, deterministic geometry first, later simulation levels, 2D and 3D views, versioned JSON, testing, accessibility, and clear limits around physical accuracy.",
+    "tags": ["iteration", "research", "GPT-5.6 Sol", "Draft"],
+    "color": "blue"
+  },
+  {
+    "id": 4,
+    "date": "2026-09-19",
+    "type": "Sketching",
+    "title": "Calude Code",
+    "body": "Currently sketching out the first rendition of the site with Claude Code.",
+    "tags": ["sketching", "Claude", "audience", "reflection"],
     "color": "yellow"
   }
 ]
